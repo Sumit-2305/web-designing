@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.header{
+	
+	width: 100%;
+	height: 70px;
+}
+.header img{
+	width: 10%;
+	padding-top: 18px;
+	padding-left: 104px;
+
+}
+.image{
+	background: url('../image/foodpanda.jpg');
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: -28px;
+
+
+}
+.image h1{
+	text-align: center;
+	font-size: 31px;
+color: white;
+background: #a7535303;
+	font-family:serif;
+	margin: auto;
+	width: 46%;
+	position: relative;
+	top: 228px;
+}
+.menu1{
+	text-decoration: none;
+	float: right;
+}
+.c{
+	background: #bdb2b261;
+	margin-top: -65px;
+	width: 100%;
+	height: 65px;
+	font-size: 7px;
+	
+}
+
+.d{
+	margin-left: 175px;
+}
+.e{
+	background: white;
+	width: 100%;
+	height: 500px;
+}
+.footer{
+	background: hotpink; 
+	color:white;
+	width: 100%;
+	height: 350px;
+	text-align: center;
+	font-size: 21px;
+	margin-top: -17px;
+padding-top: 12px;
+}
+.join{
+	background-image: url('../image/food1.jpg');
+	width: 100%;
+	height: 400px;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
